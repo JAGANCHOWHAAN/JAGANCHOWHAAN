@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Frontend Development and Java<br><br>🌱 I’m currently learning: Java, DSA, and ReactJS<br><br>👨‍💻 My Portfolio: https://jaganchowhaan-portfolio.netlify.app/<br><br>📫 Reach me at: jaganchowhaan@gmail.com<br><br>⚡ Fun fact: There’s no end to learning
+🔭 I’m currently working on: Frontend Development and Java<br><br>🌱 I’m currently learning: Java, DSA, and ReactJS<br><br>👨‍💻 My Portfolio: https://jaganchowhaan.netlify.app/<br><br>📫 Reach me at: jaganchowhaan@gmail.com<br><br>⚡ Fun fact: There’s no end to learning
 
 
 ## 🌐 Socials:
